@@ -7,7 +7,7 @@
     "start": "cross-env NODE_ENV=development webpack-dev-server .",
     "build": "webpack ."
   },
-  "keywords": ['https://jasmine.github.io/tutorials/react_with_node'],
+  "keywords": ["https://jasmine.github.io/tutorials/react_with_node"],
   "author": "",
   "license": "ISC",
   "description": "",
